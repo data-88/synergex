@@ -17,12 +17,12 @@ Each example reveals **deep structural patterns**, **cross-domain analogies**, a
 
 | File | Domain | Key Insight |
 |------|-------|-----------|
-| [`climate-crisis.synergex`](climate-crisis.synergex) | Climate Science | Tipping points & feedback loops |
-| [`ai-alignment.synergex`](ai-alignment.synergex) | AI Ethics | Value preservation via regulation |
-| [`pandemic-response.synergex`](pandemic-response.synergex) | Public Health | Misinformation as a co-pathogen |
-| [`economic-resilience.synergex`](economic-resilience.synergex) | Economics | Economy as an ecosystem |
-| [`education-reform.synergex`](education-reform.synergex) | Education | Learning as a networked process |
-| [`personal-growth.synergex`](personal-growth.synergex) | Psychology | Mind as a system of systems |
+| [`climate-crisis.synergex.md`](climate-crisis.synergex) | Climate Science | Tipping points & feedback loops |
+| [`ai-alignment.synergex.md`](ai-alignment.synergex) | AI Ethics | Value preservation via regulation |
+| [`pandemic-response.synergex.md`](pandemic-response.synergex) | Public Health | Misinformation as a co-pathogen |
+| [`economic-resilience.synergex.md`](economic-resilience.synergex) | Economics | Economy as an ecosystem |
+| [`education-reform.synergex.md`](education-reform.synergex) | Education | Learning as a networked process |
+| [`personal-growth.synergex.md`](personal-growth.synergex) | Psychology | Mind as a system of systems |
 
 ---
 
