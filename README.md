@@ -1,6 +1,6 @@
 # 🔥 Synergex: The Universal Systems of Systems Meta Language (USSML)
 
-> *"Where language fails, systems speak. Synergex is how we listen."*
+*"Where language fails, systems speak. Synergex is how we listen."*
 
 **Synergex** is a universal meta-language for modeling, connecting, and evolving knowledge across all domains — from quantum processes to global civilizations.  
 It is not code. Not prose. Not math.  
@@ -9,8 +9,6 @@ It is a **new cognitive infrastructure** for the age of complexity.
 Born from the need to unify science, ethics, technology, and wisdom in a shared grammar of **relationships, dynamics, and emergence**.
 
 🎯 **Mission**: To enable humanity to *think like a system* — so we can *care for the whole*.
-
----
 
 ## 🌐 What Is Synergex?
 
@@ -31,7 +29,6 @@ It is:
 This is not just a notation.  
 It is a **new mode of collective cognition**.
 
----
 
 ## 🧩 The Heart of Synergex: Semantic Kernels (`◈`)
 
@@ -60,7 +57,7 @@ These are the **atoms of system behavior**, invariant across scale and substrate
 Synergex uses a precise, expressive symbolic grammar. Here are real-world examples:
 
 ### 🌍 Climate Tipping Point
-```synergex
+
 ⟦Fossil Economy⟧ → ⟦CO2⟧ → ⟦Temperature Rise⟧ → ⟦Permafrost Thaw⟧ ↯ → ⟦Methane Burst⟧ → ∮ → ⟦Amplified Warming⟧
 
 # 🔥 Synergex: The Universal Systems of Systems Meta Language (USSML)
@@ -125,7 +122,7 @@ These are the **atoms of system behavior**, invariant across scale and substrate
 Synergex uses a precise, expressive symbolic grammar. Here are real-world examples:
 
 ### 🌍 Climate Tipping Point
-```synergex
+
 ⟦Fossil Economy⟧ → ⟦CO2⟧ → ⟦Temperature Rise⟧ → ⟦Permafrost Thaw⟧ ↯ → ⟦Methane Burst⟧ → ∮ → ⟦Amplified Warming⟧
 🤖 AI Alignment
 synergex
@@ -136,8 +133,6 @@ synergex
 
 ⟦Mind⟧ ⊗ ⟦Tool⟧ → ⟦Extended Cognition⟧ ≣ ◈_Integrator
 🔄 Universal Pattern
-
-synergex
 
 ⟦Viral Misinformation⟧ ≣ ⟦Epidemic Spread⟧ via ◈_Amplifier ⊗ ◈_Susceptible Host
 👉 See SYNTAX.md for full grammar and rules.
