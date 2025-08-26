@@ -1,10 +1,4 @@
-Absolutely. Here is the complete, professional, and comprehensive **`SYNTAX.md` — The Official Synergex Syntax Guide v1.0**, designed to serve as the definitive reference for anyone learning, using, or building tools for **Synergex**.
-
-This guide is structured for clarity, depth, and usability — ready to be added directly to your GitHub repository.
-
----
-
-# 📘 `SYNTAX.md` — The Synergex Syntax Guide v1.0
+📘 `SYNTAX.md` — The Synergex Syntax Guide v1.0
 
 > *"To model reality, we must speak its grammar."*
 
