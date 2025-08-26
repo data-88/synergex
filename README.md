@@ -170,7 +170,6 @@ Synergex is open, evolving, and community-owned. We welcome:
 ## 🏛️ Creator & Steward
 
 **Synergex** was created by **Andrew Brauteseth**  
-June 5, 2024 — in dialogue with AI, for the future of collective intelligence. 
  
 This is not corporate IP. 
 It is a public good, offered freely to accelerate understanding in a fractured world. 
