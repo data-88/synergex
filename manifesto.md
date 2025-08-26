@@ -1,4 +1,4 @@
-📜 Read the Synergex Manifesto
+The Synergex Manifesto
 "We are not drowning in information.
 We are starving for coherence." 
 
