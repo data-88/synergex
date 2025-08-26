@@ -145,54 +145,57 @@ Use the Synergex Canvas (web editor — coming soon)
 
 Contribute to the Kernel Library or propose new models
 
-🎯 Who Is This For?
+## 🎯 Who Is This For?
 
-Systems Thinkers 
-Model feedback, emergence, resilience 
-AI & Robotics Engineers 
-Align goals, embed ethics, simulate behavior 
-Climate Scientists 
-Map Earth system dynamics 
-Policy Designers 
-Test interventions before implementation 
-Educators 
-Teach systems literacy across grades 
-Futurists & Foresight Experts 
-Simulate long-term scenarios 
-Philosophers & Ethicists 
-Formalize values in structure 
+- **Systems Thinkers** — model feedback, emergence, resilience  
+- **AI & Robotics Engineers** — align goals, embed ethics, simulate behavior  
+- **Climate Scientists** — map Earth system dynamics  
+- **Policy Designers** — test interventions before implementation  
+- **Educators** — teach systems literacy across grades  
+- **Futurists & Foresight Experts** — simulate long-term scenarios  
+- **Philosophers & Ethicists** — formalize values in structure  
 
-🤝 How to Contribute
-Synergex is open, evolving, and community-owned. We welcome: 
+## 🤝 How to Contribute
 
-🌱 New Semantic Kernels (◈_Resilience, ◈_Narrative) 
-📚 Examples from your domain (economics, ecology, AI, etc.) 
-🔌 Tool integrations (Obsidian, Miro, LaTeX, Notion) 
-🌍 Translations of the framework 
-🎓 Educational modules (lesson plans, workshops) 
+Synergex is open, evolving, and community-owned. We welcome:  
+
+- 🌱 New **Semantic Kernels** (`◈_Resilience`, `◈_Narrative`)  
+- 📚 Examples from your domain (economics, ecology, AI, etc.)  
+- 🔌 Tool integrations (Obsidian, Miro, LaTeX, Notion)  
+- 🌍 Translations of the framework  
+- 🎓 Educational modules (lesson plans, workshops)  
+
 👉 Open an Issue to propose, or submit a Pull Request. 
 
-🏛️ Creator & Steward 
-Synergex was created by Andrew Brauteseth 
+## 🏛️ Creator & Steward
+
+**Synergex** was created by **Andrew Brauteseth**  
 June 5, 2024 — in dialogue with AI, for the future of collective intelligence. 
  
 This is not corporate IP. 
 It is a public good, offered freely to accelerate understanding in a fractured world. 
 
-📄 License 
-Content: Creative Commons Attribution 4.0 International (CC BY 4.0) 
-You are free to: 
+## 📄 License
 
-Share — copy and redistribute the material 
-Adapt — remix, transform, and build upon it 
-Even commercially — as long as you give appropriate credit. 
-Software tools (e.g., Synergex Canvas) will be released under MIT License — stay tuned. 
- 
-🌐 Join the Movement 
-🌐 Website: synergex.org (coming soon) 
-💬 Community: [Discord / Forum link] (coming soon) 
-🐦 Follow: [@synergex_lang] (coming soon) 
-📬 Contact: andrew@synergex.org 
+**Content**: Creative Commons Attribution 4.0 International (CC BY 4.0)  
+
+You are free to:  
+- **Share** — copy and redistribute the material  
+- **Adapt** — remix, transform, and build upon it  
+- Even **commercially** — as long as you give appropriate credit.  
+
+**Software tools** (e.g., Synergex Canvas) will be released under **MIT License** — stay tuned.  
+
+---
+
+## 🌐 Join the Movement
+
+- 🌐 Website: [synergex.org] (coming soon)  
+- 💬 Community: [Discord / Forum link] (coming soon)  
+- 🐦 Follow: [@synergex_lang] (coming soon)  
+- 📬 Contact: **andrew@synergex.org**  
+
+---
 "We don’t need more data. 
 We need a language that helps us see the whole. 
 Synergex is that language." 
