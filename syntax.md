@@ -253,7 +253,7 @@ Future parsers should support:
 ## 🏛️ 14. Creator & License
 
 **Synergex Syntax v1.0 created by Andrew Brauteseth**  
-*June 5, 2024 — in dialogue with AI, for the future of collective intelligence.*
+*August 26, 2025 — for the future of collective intelligence.*
 
 📄 **License**: [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)  
 You are free to share and adapt — just credit the source.
@@ -264,7 +264,7 @@ You are free to share and adapt — just credit the source.
 > It allows systems to describe themselves — across all domains, in one language."*
 
 📘 **Learn. Model. Evolve.**  
-🌐 [synergex.org](https://synergex.org) | 💬 Join the movement
+🌐 [synergex.org](https://synergex.org) | 💬 Join the movement (Comming soon)
 
 ---
 
