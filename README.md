@@ -62,16 +62,7 @@ Synergex uses a precise, expressive symbolic grammar. Here are real-world exampl
 ### 🌍 Climate Tipping Point
 ```synergex
 ⟦Fossil Economy⟧ → ⟦CO2⟧ → ⟦Temperature Rise⟧ → ⟦Permafrost Thaw⟧ ↯ → ⟦Methane Burst⟧ → ∮ → ⟦Amplified Warming⟧
-⌄
-⌄
-⌄
-⌄
-⌄
-⌄
-⌄
-⌄
-⌄
-⌄
+
 # 🔥 Synergex: The Universal Systems of Systems Meta Language (USSML)
 
 > *"Where language fails, systems speak. Synergex is how we listen."*
